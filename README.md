@@ -14,7 +14,7 @@
 - 📸 [Instagram](https://www.instagram.com/gauravgautam_63)  
 - 💬 [WhatsApp](https://wa.me/+9779762530804)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gauravgautam-fc)  
-- ✉️ [Email 1](mailto:gautamgaurav2063@gmail.com) | [Email 2](mailto:gauravgautam81@nepathyacollege.edu.np)
+- ✉️ [Personal Email](mailto:gautamgaurav2063@gmail.com) | [College Email](mailto:gauravgautam81@nepathyacollege.edu.np)
 
 ## 🌟 Fun Fact
 - Always excited to **learn new things** and improve myself  
