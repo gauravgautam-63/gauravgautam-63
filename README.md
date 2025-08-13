@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Gautam
 
-<!--
-**gauravgautam-63/gauravgautam-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 𝓑𝓢𝓬.𝓒𝓢𝓘𝓣 Second Semester Student at **Nepathya College, TU**  
+- Based in **Butwal, Rupandehi, Nepal**  
+- Passionate about **learning and exploring technology**  
 
-Here are some ideas to get you started:
+## 📂 Projects & Work
+- [GitHub Profile](https://github.com/gauravgautam-63) – Explore my projects  
+- [Portfolio Website](https://gauravgautam.com.np) – My personal website  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- **Facebook:** [Gaurav Gautam](https://www.facebook.com/gauravgautam.63)  
+- **Instagram:** [@gauravgautam_63](https://www.instagram.com/gauravgautam_63)  
+- **WhatsApp:** [Chat with me](https://wa.me/+9779762530804)  
+- **LinkedIn:** [Gaurav Gautam](https://www.linkedin.com/in/gauravgautam-fc)  
+- **Email:** [gautamgaurav2063@gmail.com](mailto:gautamgaurav2063@gmail.com) | [gauravgautam81@nepathyacollege.edu.np](mailto:gauravgautam81@nepathyacollege.edu.np)
+
+## 🌟 Fun Fact
+- Always excited to **learn new things** and improve myself  
+- Love **turning ideas into reality**  
+
+---
+
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravgautam-63&show_icons=true&theme=radical)
