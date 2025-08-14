@@ -10,7 +10,7 @@
 - 📱 [Samsung Clone](https://gauravgautam-63.github.io/Clone/) – A project I built
 
 ## 📫 Connect with Me
-- 📘 [Facebook](https://www.facebook.com/gauravgautam.63)  
+- 📘 [Facebook](https://www.facebook.com/gauravgautam.06)  
 - 📸 [Instagram](https://www.instagram.com/gauravgautam_63)  
 - 💬 [WhatsApp](https://wa.me/+9779762530804)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gauravgautam-fc)  
