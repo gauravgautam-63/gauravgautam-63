@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gaurav Gautam
 
 ## 🎓 About Me
-- 𝓑𝓢𝓬.𝓒𝓢𝓘𝓣 Second Semester Student at **Nepathya College, TU**  
+- 𝓑𝓢𝓬.𝓒𝓢𝓘𝓣 Third Semester Student at **Nepathya College, TU**  
 - Current City: **Butwal, Rupandehi, Nepal**  
 - Passionate about **learning and exploring technology**  
 
@@ -10,10 +10,10 @@
 - 📱 [Samsung Clone](https://gauravgautam-63.github.io/Clone/) – A project I built
 
 ## 📫 Connect with Me
-- 📘 [Facebook](https://www.facebook.com/gauravgautam.06)  
-- 📸 [Instagram](https://www.instagram.com/gauravgautam_63)  
+- 📘 [Facebook](https://www.facebook.com/gauravgautam.6)  
+- 📸 [Instagram](https://www.instagram.com/gauravgautam.6)  
 - 💬 [WhatsApp](https://wa.me/+9779762530804)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauravgautam-fc)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravgautam6)  
 - ✉️ [Personal Email](mailto:gautamgaurav2063@gmail.com) | [College Email](mailto:gauravgautam81@nepathyacollege.edu.np)
 
 ## 🌟 Fun Fact
